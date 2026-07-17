@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 7 月 17 号添加
 
+#### meadmin-cn - [Github](https://github.com/meadmin-cn)
+* :white_check_mark:  [Me-Admin](https://github.com/meadmin-cn/meadmin): 一个免费开源的nodejs + vue 全栈一站式中后台解决方案,后端基于medwayjs ,前台基于vue3构建，支持一键crud, 开箱即用。本项目采用最宽松的MIT协议，最新技术栈，助力你快速创建企业级web中后台项目。- [更多介绍](https://github.com/meadmin-cn/meadmin)
+  
 #### Tura 团队 - [Github](https://github.com/Tura-AI)
 * :white_check_mark: [Tura](https://turaai.net/)：开源、本地优先的 AI 编程 Agent，提供 CLI、TUI 与桌面端，可读取和修改代码仓库、运行命令并验证结果，支持 OpenAI、Anthropic、Gemini、OpenRouter、Ollama 及自定义 OpenAI 兼容接口 - [更多介绍](https://github.com/Tura-AI/tura)
 
